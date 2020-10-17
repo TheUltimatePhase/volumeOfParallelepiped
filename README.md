@@ -1,0 +1,1 @@
+Instructions: input for the 4 distinct points should each be in the form "x, y, z"
